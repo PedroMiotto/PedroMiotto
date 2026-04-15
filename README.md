@@ -11,10 +11,7 @@ Always improving my skills
 ---
 
 ### About Me
-
-I'm a student passionate about technology and programming.  
 Currently, I'm focused on learning how to build web applications and improve my problem-solving skills.
-
 I'm constantly practicing and working on small projects to evolve and gain real-world experience.
 
 ---
