@@ -38,8 +38,6 @@ I'm constantly practicing and working on small projects to evolve and gain real-
 
 ### Tools
 
-### Tools
-
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
