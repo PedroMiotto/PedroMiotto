@@ -63,11 +63,18 @@ I'm constantly practicing and working on small projects to evolve and gain real-
 
 ### Contact
 
-<div align="left" style="display: flex; gap: 15px; align-items: center; border: 1px solid #30363d; padding: 15px; border-radius: 10px; width: fit-content;">
+<p align="left">
 
 <a href="https://wa.me/SEUNUMERO" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" height="40" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
