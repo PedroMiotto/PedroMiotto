@@ -10,7 +10,7 @@ Always improving my skills
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a student passionate about technology and programming.  
 Currently, I'm focused on learning how to build web applications and improve my problem-solving skills.
@@ -19,9 +19,8 @@ I'm constantly practicing and working on small projects to evolve and gain real-
 
 ---
 
-### 🛠️ Tech Stack
+### Dev Skills
 
-**Languages I'm Learning**
 <p align="left">
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
@@ -44,11 +43,3 @@ I'm constantly practicing and working on small projects to evolve and gain real-
 - Become a Full-Stack Developer  
 - Contribute to open-source projects  
 - Build real-world applications  
-
----
-
-### 📊 GitHub Stats (Optional)
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviodamaiajr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usern)
