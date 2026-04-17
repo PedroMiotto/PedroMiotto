@@ -13,7 +13,7 @@ I'm always open to collaborations that help me gain practical experience and sha
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,react,html,css,mysql&perrow=9" />
 </p>
----
+
 ## Tools
 
 <p align="left">
