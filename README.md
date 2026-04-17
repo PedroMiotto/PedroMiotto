@@ -1,18 +1,10 @@
 ## Hi My name is Pedro Miotto! 
 
 
-### 🎓 Student & Future Full-Stack Developer
+### Student & Future Full-Stack Developer
 
-Currently studying programming and software development  
-Learning and building projects to grow as a developer  
-Open to collaborating on beginner-friendly projects  
-Always improving my skills  
-
----
-
-### About Me
-Currently, I'm focused on learning how to build web applications and improve my problem-solving skills.
-I'm constantly practicing and working on small projects to evolve and gain real-world experience.
+I'm currently studying programming and software engineering, working on personal projects to grow as a developer.
+I'm always open to collaborations that help me gain practical experience and sharpen my skills.
 
 ---
 
