@@ -30,18 +30,15 @@ I'm always open to collaborations that help me gain practical experience and sha
 
 ---
 
-### Contact
+## Contact
 
 <p align="left">
-
-<a href="https://wa.me/SEUNUMERO" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/Pedro Henrique Miotto" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://wa.me/5547992118192" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 
