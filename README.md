@@ -11,7 +11,7 @@ I'm always open to collaborations that help me gain practical experience and sha
 ## Dev Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,react,html,css,mysql&perrow=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,mysql&perrow=6" />
 </p>
 
 ## Tools
